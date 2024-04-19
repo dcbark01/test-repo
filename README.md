@@ -8,6 +8,7 @@ Here we add some edits to build up a small commit history.
 - Update 2: Hey there, we've got an announcement...
 - Update 3: Nevermind. Wasn't important.
 - Update 4: Well, on second thought...
+- Update 5: Nah. Really not important.
 
 ## Contents
 
