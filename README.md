@@ -2,6 +2,10 @@
 
 This repository is created for testing purposes. It contains dummy content to help with various testing scenarios.
 
+Here we add some edits to build up a small commit history.
+
+- Update 1: This is an update
+
 ## Contents
 
 - **data**: Contains dummy data files for testing data processing tasks.
