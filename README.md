@@ -5,6 +5,7 @@ This repository is created for testing purposes. It contains dummy content to he
 Here we add some edits to build up a small commit history.
 
 - Update 1: This is an update
+- Update 2: Hey there, we've got an announcement...
 
 ## Contents
 
